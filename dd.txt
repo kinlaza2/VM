@@ -1,0 +1,72 @@
+platform-admin.log.16-01-26.gz
+308785
+platform-admin.log.16-01-27.gz
+652665
+platform-admin.log.16-01-28.gz
+215445
+platform-admin.log.16-01-29.gz
+518140
+platform-admin.log.16-01-30.gz
+144045
+platform-admin.log.16-01-31.gz
+191460
+platform-admin.log.16-02-01.gz
+0
+platform-admin.log.16-02-02.gz
+0
+platform-admin.log.16-02-03.gz
+0
+platform-admin.log.16-02-04.gz
+0
+platform-admin.log.16-02-05.gz
+257355
+platform-admin.log.16-02-06.gz
+166462
+platform-admin.log.16-02-07.gz
+0
+ 
+
+
+
+
+01/26
+ 158675 1021 Extension_2016_1st_Jan_18th_TOUCH
+ 150110 1302 Extension_2016_1st_Jan_18th_ALFA
+
+01/27
+ 331710 1021 Extension_2016_1st_Jan_18th_TOUCH
+ 320956 1302 Extension_2016_1st_Jan_18th_ALFA
+
+01/28
+ 108955 1021 Extension_2016_1st_Jan_18th_TOUCH
+ 106490 1302 Extension_2016_1st_Jan_18th_ALFA
+
+01/29
+ 205441 1021 Extension_2016_1st_Jan_18th_TOUCH
+ 312706 1302 Extension_2016_1st_Jan_18th_ALFA
+
+01/30
+  72490 1021 Extension_2016_1st_Jan_18th_TOUCH
+  71555 1302 Extension_2016_1st_Jan_18th_ALFA
+
+01/31
+ 161541 1021 Extension_2016_1st_Jan_18th_TOUCH
+  29920 1302 Extension_2016_1st_Jan_18th_ALFA
+
+02/01
+
+02/02
+
+02/03
+
+02/04
+
+02/05
+ 129976 1321 Extension_2016_1st_Jan_18th_ALFA
+ 127392 1322 Extension_2016_1st_Jan_18th_TOUCH
+
+02/06
+  85649 1321 Extension_2016_1st_Jan_18th_ALFA
+  80824 1322 Extension_2016_1st_Jan_18th_TOUCH
+
+02/07
